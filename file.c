@@ -10,4 +10,5 @@ int main()
 int print_myName()
 {
 	printf("\nMy name is Nasrat");	
+	printf("\nMy name again is Nasrat");	
 }
